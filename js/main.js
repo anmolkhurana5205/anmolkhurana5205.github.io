@@ -9,6 +9,15 @@ $(document).ready(function () {
     }
   });
 
+  let $grid = $(".project-area .grid");
+
+  $grid.imagesLoaded(function () {
+    $grid.isotope({
+      itemSelector: ".element-item",
+      layoutMode: "fitRows",
+    });
+  });
+
   let $btns = $(".project-area .button-group button");
 
   $btns.click(function (e) {
@@ -16,7 +25,7 @@ $(document).ready(function () {
     e.target.classList.add("active");
 
     let selector = $(e.target).attr("data-filter");
-    $(".project-area .grid").isotope({
+    $grid.isotope({
       filter: selector,
     });
 
