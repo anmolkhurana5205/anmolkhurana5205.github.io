@@ -345,6 +345,9 @@ ul {
   font: normal 500 16px/130px var(--roboto);
   text-transform: uppercase;
 }
+.site-main .project-area .button-group button:hover {
+  color: #2196f3;
+}
 
 .site-main .project-area .button-group .active {
   color: #2196f3;
@@ -687,8 +690,15 @@ input:checked + .slider:before {
 .dark .svg-inline--fa:hover {
   color: #fff;
 }
-.dark .site-main .project-area .button-group button + button {
+.dark .site-main .project-area .button-group button {
   color: rgb(252, 252, 252);
+}
+.dark .site-main .project-area .button-group button:hover {
+  color: #2196f3;
+}
+
+.dark .site-main .project-area .button-group .active {
+  color: #2196f3;
 }
 
 .dark #subheading {
