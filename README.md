@@ -3,12 +3,12 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <img alt="Maintenance" src="https://img.shields.io/badge/Maintained-yes-blue.svg" />
 </p>
-### 🏠 [homepage](###)
+### 🏠 [homepage](https://anmolkhurana5205.github.io/)
 
 ## install
 
 ```sh
-git clone https:
+git clone https://github.com/anmolkhurana5205/anmolkhurana5205.github.io.git
 ```
 
 ## usage
@@ -25,7 +25,7 @@ a webpage to showcase my experience, education, skill-set, projects, certificate
 
 **Anmol Khurana (anmolkhurana05@gmail.com)**
 
-- website: ###
+- website: https://github.com/anmolkhurana5205/anmolkhurana5205.github.io.git
 - linkedin: [@anmolkhurana5205](https://www.linkedin.com/in/anmolkhurana5205/)
 
 ## show your support

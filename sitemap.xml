@@ -8,20 +8,17 @@
 
 
 <url>
-  <loc>https://github.com/anmolkhurana5205</loc>
-  <!-- above comes the link of github.io link -->
+  <loc>https://anmolkhurana5205.github.io/</loc>
   <lastmod>2025-10-18T07:58:49+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://github.com/anmolkhurana5205</loc>
-  <!-- above comes the link of github.io link and this (/certificates.html) at the end -->
+  <loc>https://anmolkhurana5205.github.io/certificates.html</loc>
   <lastmod>2025-10-18T07:58:49+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://github.com/anmolkhurana5205</loc>
-  <!-- above comes the link of github.io link and this (/index.html) at the end -->
+  <loc>https://anmolkhurana5205.github.io/index.html</loc>
   <lastmod>2025-10-18T07:58:49+00:00</lastmod>
   <priority>0.64</priority>
 </url>
