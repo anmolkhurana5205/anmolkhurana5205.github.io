@@ -13,11 +13,10 @@ const filesToCache = [
   "/css/style.css",
   "/css/variables.css",
 
-  "/vscode/settings.json",
-
+  "/dependencies/github-buttons/githubbuttons.js",
+  "/dependencies/imagesloaded/imagesloaded.pkgd.min.js",
   "/dependencies/isotope/isotope.min.js",
   "/dependencies/magnific-popup/dist/jquery.magnific-popup.js",
-  "/dependencies/magnific-popup/dist/jquery.magnific-popup.min.js",
   "/dependencies/magnific-popup/dist/magnific-popup.css",
   "/dependencies/owl-carousel/css/owl.carousel.min.css",
   "/dependencies/owl-carousel/css/owl.theme.default.min.css",
