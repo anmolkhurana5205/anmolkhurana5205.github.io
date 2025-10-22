@@ -30,6 +30,7 @@ const filesToCache = [
   "/img/certificates/Achievement_CyberSecureX.jpg",
   "/img/certificates/anmol-khurana-Introduction-to-MongoDB (For Students)-certificate.png",
   "/img/certificates/Azure certificate.png",
+  "/img/certificates/Blockchain Developer Training.jpg",
   "/img/certificates/Certificate of Merit (IMO) Maths Olympiad.png",
   "/img/certificates/CertificateOfCompletion_Getting Started with DevOps.png",
   "/img/certificates/Comprehensive Training on Unix and Linux OS Fundamentals.png",
@@ -37,6 +38,7 @@ const filesToCache = [
   "/img/certificates/DevOps Foundations.jpg",
   "/img/certificates/HTML Essential Training.png",
   "/img/certificates/innotech.png",
+  "/img/certificates/Introduction to SQL simplilearn.jpg",
   "/img/certificates/MLSA Data Analysis.png",
   "/img/certificates/Participation_CyberSecureX.jpg",
 
