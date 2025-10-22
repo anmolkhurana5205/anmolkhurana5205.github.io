@@ -1,5 +1,5 @@
 $(document).ready(function () {
-  $(".card-toggle").on("click", function () {
+  $("#exp-accordion .card-toggle").on("click", function () {
     if ($(this).find("svg").attr("data-icon") == "chevron-down") {
       $(this).find("svg").attr("data-icon", "chevron-up");
       $(this).siblings("svg").attr("data-icon", "folder-open");
