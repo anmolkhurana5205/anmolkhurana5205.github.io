@@ -446,8 +446,9 @@ ul {
 /* Footer Area */
 
 footer.footer-area {
-  padding: 5rem 0;
-  background: url(../img/footer-bg.png) no-repeat;
+  padding: 2rem 0;
+  /* background: url(../img/footer-bg.png) no-repeat; */
+  background-color: #eaeaea;
 }
 
 footer.footer-area h5 {
@@ -683,6 +684,15 @@ input:checked + .slider:before {
 }
 .dark .footer-area {
   background: #000;
+}
+.dark .footer-area .footer-black-img {
+  display: none;
+}
+.footer-area .footer-white-img {
+  display: none;
+}
+.dark .footer-area .footer-white-img {
+  display: inline;
 }
 .dark .svg-inline--fa {
   color: rgb(197, 197, 197);
