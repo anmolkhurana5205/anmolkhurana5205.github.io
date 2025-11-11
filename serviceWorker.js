@@ -36,6 +36,7 @@ const filesToCache = [
   "/img/certificates/Comprehensive Training on Unix and Linux OS Fundamentals.png",
   "/img/certificates/Cybersecurity_Foundation_Student_Certificate.png",
   "/img/certificates/DevOps Foundations.jpg",
+  "/img/certificates/HeLa CrossRoadshow Workshop.jpg",
   "/img/certificates/HTML Essential Training.png",
   "/img/certificates/India Today Young Masters Quiz.jpg",
   "/img/certificates/innotech.png",
