@@ -40,6 +40,7 @@ const filesToCache = [
   "/img/certificates/HTML Essential Training.png",
   "/img/certificates/India Today Young Masters Quiz.jpg",
   "/img/certificates/innotech.png",
+  "/img/certificates/innotech25.png",
   "/img/certificates/Introduction to SQL simplilearn.jpg",
   "/img/certificates/MLSA Data Analysis.png",
   "/img/certificates/NoSQL Course Training- MongoDB Developer.png",
