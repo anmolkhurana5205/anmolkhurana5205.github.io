@@ -1,9 +1,8 @@
-const cacheName = "anmol-khurana-portfolio";
+const cacheName = "anmol-khurana-portfolio-v2";
 const filesToCache = [
   "/",
   "/index.html",
   "/certificates.html",
-
   "/assets/Anmol Khurana's resume.pdf",
 
   "/css/all.min.css",
