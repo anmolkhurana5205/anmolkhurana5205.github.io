@@ -29,6 +29,7 @@ const filesToCache = [
 
   "/img/certificates/Achievement_CyberSecureX.jpg",
   "/img/certificates/anmol-khurana-Introduction-to-MongoDB (For Students)-certificate.png",
+  "/img/certificates/AWS_Academy_Graduate___Cloud_Security_Foundations.png",
   "/img/certificates/Azure certificate.png",
   "/img/certificates/Blockchain Developer Training.jpg",
   "/img/certificates/Certificate of Merit (IMO) Maths Olympiad.png",
