@@ -29,6 +29,7 @@ const filesToCache = [
 
   "/img/certificates/Achievement_CyberSecureX.jpg",
   "/img/certificates/anmol-khurana-Introduction-to-MongoDB (For Students)-certificate.png",
+  "/img/certificates/AWS Certified Cloud Practitioner certificate.jpg",
   "/img/certificates/AWS_Academy_Graduate___Cloud_Security_Foundations.png",
   "/img/certificates/Azure certificate.png",
   "/img/certificates/Blockchain Developer Training.jpg",
@@ -113,7 +114,7 @@ self.addEventListener("install", (event) => {
   event.waitUntil(
     caches.open(cacheName).then((cache) => {
       return cache.addAll(filesToCache);
-    })
+    }),
   );
 });
 
@@ -124,9 +125,9 @@ self.addEventListener("activate", (event) => {
       return Promise.all(
         cacheNames
           .filter((name) => name !== cacheName)
-          .map((name) => caches.delete(name))
+          .map((name) => caches.delete(name)),
       );
-    })
+    }),
   );
   self.clients.claim();
 });
@@ -143,6 +144,6 @@ self.addEventListener("fetch", (event) => {
         });
         return response;
       })
-      .catch(() => caches.match(event.request)) // fallback to cache if offline
+      .catch(() => caches.match(event.request)), // fallback to cache if offline
   );
 });
