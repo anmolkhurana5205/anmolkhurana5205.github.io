@@ -48,6 +48,7 @@ const filesToCache = [
   "/img/certificates/NoSQL Course Training- MongoDB Developer.png",
   "/img/certificates/Participation_CyberSecureX.jpg",
   "/img/certificates/ReactJS for Beginners.jpg",
+  "/img/certificates/Software Project Management Training.jpg",
 
   "/img/logo/android-chrome-192x192.png",
   "/img/logo/android-chrome-256x256.png",
