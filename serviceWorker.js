@@ -4,7 +4,7 @@ const filesToCache = [
   "/index.html",
   "/certificates.html",
 
-  "/assets/Anmol Khurana's resume-v2.pdf",
+  "/assets/Anmol Resume 17-04-26.pdf",
 
   "/css/all.min.css",
   "/css/bootstrap.min.css",
