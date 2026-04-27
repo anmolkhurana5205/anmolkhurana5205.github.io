@@ -1,10 +1,10 @@
-const cacheName = "anmol-khurana-portfolio-v2";
+const cacheName = "anmol-khurana-portfolio-v3";
 const filesToCache = [
   "/",
   "/index.html",
   "/certificates.html",
 
-  "/assets/Anmol Resume 17-04-26.pdf",
+  "/assets/resume.pdf",
 
   "/css/all.min.css",
   "/css/bootstrap.min.css",
@@ -28,6 +28,7 @@ const filesToCache = [
   "/img/banner/Blogging.json",
 
   "/img/certificates/Achievement_CyberSecureX.jpg",
+  "/img/certificates/anmol_snowpro_certificate.jpg",
   "/img/certificates/anmol-khurana-Introduction-to-MongoDB (For Students)-certificate.png",
   "/img/certificates/AWS Certified Cloud Practitioner certificate.jpg",
   "/img/certificates/AWS_Academy_Graduate___Cloud_Security_Foundations.png",
