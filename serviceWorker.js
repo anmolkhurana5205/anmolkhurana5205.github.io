@@ -1,4 +1,4 @@
-const cacheName = "anmol-khurana-portfolio-v3";
+const cacheName = "anmol-khurana-portfolio-v4";
 const filesToCache = [
   "/",
   "/index.html",
